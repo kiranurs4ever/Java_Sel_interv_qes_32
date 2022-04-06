@@ -1,0 +1,9 @@
+How to Navigate Back & Forward ?
+How to Refresh Page?
+What is the difference between get() & navigate.to() ? 
+
+get() --> waits for page load
+navigate.to() --> does not wait to page load 
+to() of Navigating --> is calling get()
+so no difference
+

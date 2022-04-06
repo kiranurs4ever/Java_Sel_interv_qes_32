@@ -1,0 +1,5 @@
+1. How to launch a browser in WebDriver?
+2. How to open URL ?
+3. How to capture Title of the Page?
+4. How to capture URL of the Page?
+5. How to capture page source of the page?
